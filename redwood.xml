@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="Redwood-AOSP"
+            fetch="https://github.com/Redwood-AOSP" />
+
+    <project path="device/xiaomi/redwood"
+             name="android_device_xiaomi_redwood"
+             remote="Redwood-AOSP"
+             revision="sixteen" />
+
+    <project path="vendor/xiaomi/redwood"
+             name="android_vendor_xiaomi_redwood"
+             remote="Redwood-AOSP"
+             revision="sixteen" />
+
+    <project path="device/xiaomi/redwood-kernel"
+             name="android_device_xiaomi_redwood-kernel"
+             remote="Redwood-AOSP"
+             revision="scarlet" />
+
+    <project path="vendor/xiaomi/redwood-miuicamera"
+             name="android_vendor_xiaomi_redwood-miuicamera"
+             remote="Redwood-AOSP"
+             revision="miui" />
+
+    <project path="hardware/dolby"
+             name="android_hardware_dolby"
+             remote="Redwood-AOSP"
+             revision="moto" />
+	
+	<project path="hardware/xiaomi"
+             name="android_hardware_xiaomi"
+             remote="Redwood-AOSP"
+             revision="sixteen" />
+
+</manifest>
