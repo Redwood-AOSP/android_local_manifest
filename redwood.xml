@@ -24,10 +24,10 @@
              remote="Redwood-AOSP"
              revision="miui" />
 
-    <project path="hardware/dolby"
-             name="android_hardware_dolby"
+    <project path="vendor/oneplus/dolby"
+             name="android_vendor_oneplus_dolby"
              remote="Redwood-AOSP"
-             revision="moto" />
+             revision="main" />
 	
 	<project path="hardware/xiaomi"
              name="android_hardware_xiaomi"
