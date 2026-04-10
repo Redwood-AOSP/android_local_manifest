@@ -17,7 +17,7 @@
     <project path="device/xiaomi/redwood-kernel"
              name="android_device_xiaomi_redwood-kernel"
              remote="Redwood-AOSP"
-             revision="scarlet" />
+             revision="araxys" />
 
     <project path="vendor/xiaomi/redwood-miuicamera"
              name="android_vendor_xiaomi_redwood-miuicamera"
