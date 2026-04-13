@@ -24,12 +24,17 @@
              remote="Redwood-AOSP"
              revision="miui" />
 
-    <project path="vendor/sony/dolby"
-             name="android_vendor_sony_dolby"
+    <project path="hardware/dolby"
+             name="android_hardware_dolby"
+             remote="Redwood-AOSP"
+             revision="xiaomi" />
+
+    <project path="packages/apps/DolbyUI"
+             name="android_packages_apps_DolbyUI"
              remote="Redwood-AOSP"
              revision="sixteen" />
 	
-	<project path="hardware/xiaomi"
+    <project path="hardware/xiaomi"
              name="android_hardware_xiaomi"
              remote="Redwood-AOSP"
              revision="sixteen-qpr2" />
