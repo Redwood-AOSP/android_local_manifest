@@ -27,7 +27,7 @@
     <project path="hardware/dolby"
              name="android_hardware_dolby"
              remote="Redwood-AOSP"
-             revision="xiaomi" />
+             revision="xiaomi/dolby" />
 
     <project path="packages/apps/DolbyUI"
              name="android_packages_apps_DolbyUI"
