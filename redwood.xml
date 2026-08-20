@@ -7,12 +7,12 @@
     <project path="device/xiaomi/redwood"
              name="android_device_xiaomi_redwood"
              remote="Redwood-AOSP"
-             revision="sixteen-qpr2" />
+             revision="seventeen" />
 
     <project path="vendor/xiaomi/redwood"
              name="android_vendor_xiaomi_redwood"
              remote="Redwood-AOSP"
-             revision="sixteen-qpr2" />
+             revision="seventeen" />
 
     <project path="device/xiaomi/redwood-kernel"
              name="android_device_xiaomi_redwood-kernel"
@@ -22,7 +22,7 @@
     <project path="vendor/xiaomi/redwood-miuicamera"
              name="android_vendor_xiaomi_redwood-miuicamera"
              remote="Redwood-AOSP"
-             revision="miui" />
+             revision="miui-seventeen" />
 
     <project path="hardware/dolby"
              name="android_hardware_dolby"
@@ -32,6 +32,6 @@
     <project path="hardware/xiaomi"
              name="android_hardware_xiaomi"
              remote="Redwood-AOSP"
-             revision="sixteen-qpr2" />
+             revision="seventeen" />
 
 </manifest>

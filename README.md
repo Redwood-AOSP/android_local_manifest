@@ -11,7 +11,7 @@ To get started get familiar with [Git & Repo](https://source.android.com/setup/b
 2. Clone local manifest:
 
 	```bash
-	git clone https://github.com/Redwood-AOSP/android_local_manifest -b sixteen-qpr2 .repo/local_manifests
+	git clone https://github.com/Redwood-AOSP/android_local_manifest -b seventeen .repo/local_manifests
 	```
 
 3. Then sync:
