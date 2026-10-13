@@ -24,11 +24,6 @@
              remote="Redwood-AOSP"
              revision="miui-seventeen" />
 
-    <project path="hardware/dolby"
-             name="android_hardware_dolby"
-             remote="Redwood-AOSP"
-             revision="moto/dolby-dolbyvision" />
-
     <project path="hardware/xiaomi"
              name="android_hardware_xiaomi"
              remote="Redwood-AOSP"
